@@ -12,7 +12,7 @@ After building, you'll be left with an executable in `bin/chip-8`. The executabl
 
 ## Contributing
 
-1. Fork it (<https://github.com/mattrberry/chip-8/fork>)
+1. Fork it (<https://github.com/mattrbeck/chip-8/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -20,4 +20,4 @@ After building, you'll be left with an executable in `bin/chip-8`. The executabl
 
 ## Contributors
 
-- [Matthew Berry](https://github.com/mattrberry) - creator and maintainer
+- [Matthew Beck](https://github.com/mattrbeck) - creator and maintainer

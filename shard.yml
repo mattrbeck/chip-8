@@ -2,7 +2,7 @@ name: chip-8
 version: 0.1.0
 
 authors:
-  - Matthew Berry <me@mattrb.com>
+  - Matthew Beck <me@mattrb.com>
 
 targets:
   chip-8:
